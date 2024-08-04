@@ -1,5 +1,4 @@
-# etongue
-Processing Data of Electronic Tongue to Identify Mineral and Lead
+# etongue: Processing Data of Electronic Tongue to Identify Mineral and Lead
 ## What is Electronic Tongue?
 Electronic tongue is a membrane-based sensor made with composition and recipe from some published paper. The sensor consists of 4 sets with each set supposed to sensitive to one specific taste. The tastes specified are umami, salty, bitterness, and sour. By adapting into this idea, the artificial tongue-based sensor can 'felt' the difference components in a solution. For this case, the substances to identify is mineral (Calsium, Potassium, Magnesium) and lead.
 ## Purpose and Expected Outputs
